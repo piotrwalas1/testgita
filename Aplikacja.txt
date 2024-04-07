@@ -4,3 +4,9 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 fdfsdffs
+
+public void logowanie() {
+        System.out.println("Podaj nazwe uzytkownika microsoft");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj jak chcesz");
+    }
