@@ -8,4 +8,11 @@ public void logowanie() {
         System.out.println("Podaj email gmail");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+=======
+
+public void logowanie() {
+        System.out.println("Podaj nazwe uzytkownika microsoft");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj jak chcesz");
+
     }
